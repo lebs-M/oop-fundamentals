@@ -1,0 +1,10 @@
+// TODO: Do the requirements
+
+public class Vehicle {
+
+    public String registration;
+    public boolean available;
+    public double rentalRate;
+}
+
+

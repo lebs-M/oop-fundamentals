@@ -1,0 +1,16 @@
+// TODO: complete the exercise
+
+public class Robot {
+
+    private String name;
+    private int shields;
+    private int shots;
+
+    public Robot(String name) {
+        this.name = name;
+        this.shields = 5;
+        this.shots = 5;
+    }
+
+    // Add methods here
+}
